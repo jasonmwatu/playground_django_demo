@@ -1,1 +1,0 @@
-# playground_django_demo
